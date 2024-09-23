@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sakura\\source\\repos\\DetectiveAgency-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEEF787-E61B-486B-8124-7F84CCA9340A}|DetectiveAgency.csproj|c:\\users\\sakura\\source\\repos\\detectiveagency-master\\views\\home\\mainofficeemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEEEF787-E61B-486B-8124-7F84CCA9340A}|DetectiveAgency.csproj|solutionrelative:views\\home\\mainofficeemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEEF787-E61B-486B-8124-7F84CCA9340A}|DetectiveAgency.csproj|c:\\users\\sakura\\source\\repos\\detectiveagency-master\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEEEF787-E61B-486B-8124-7F84CCA9340A}|DetectiveAgency.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEEF787-E61B-486B-8124-7F84CCA9340A}|DetectiveAgency.csproj|c:\\users\\sakura\\source\\repos\\detectiveagency-master\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEEEF787-E61B-486B-8124-7F84CCA9340A}|DetectiveAgency.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sakura\\source\\repos\\DetectiveAgency-master\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sakura\\source\\repos\\DetectiveAgency-master\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T02:03:45.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainOfficeEmployees.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sakura\\source\\repos\\DetectiveAgency-master\\Views\\Home\\MainOfficeEmployees.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\MainOfficeEmployees.cshtml",
+              "ToolTip": "C:\\Users\\Sakura\\source\\repos\\DetectiveAgency-master\\Views\\Home\\MainOfficeEmployees.cshtml",
+              "RelativeToolTip": "Views\\Home\\MainOfficeEmployees.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T22:19:23.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sakura\\source\\repos\\DetectiveAgency-master\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Sakura\\source\\repos\\DetectiveAgency-master\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T21:29:51.914Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
